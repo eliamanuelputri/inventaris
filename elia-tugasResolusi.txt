@@ -1,0 +1,5 @@
+resolusi:
+-pribadi= bekerja dengan baik di tim
+
+-program= ingin program inventaris ini berjalan dengan baik, dan jika bisa sampai diterapkan di dunia nyata
+melengkapi menu-menu yang dibutuhkan di dunia industri 
